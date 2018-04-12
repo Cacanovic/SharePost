@@ -1,0 +1,2 @@
+kada se koristi ovaj template MVC u public .htaccess treba dobro napisati putanju za RewriteBase
+potrebno je app/config/config.php upisati odgovarajuce parametre za bazu i za siteroot i ostale
